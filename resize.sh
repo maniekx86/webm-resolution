@@ -1,4 +1,5 @@
 #!/bin/bash
+# script to randomly resize frames
 
 sizex=0
 sizey=0
